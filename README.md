@@ -17,7 +17,7 @@ The script searches for fligths for the first two transactions and the third one
 
 Runtime Settings were set to log only on errors and generate snapshot on errors, think times 75% to 150%
 
-This script has 8 transactions
+This script has 3 transactions
 Flight-Web Services SOAP-S01-01 Get Flights
 Flight-Web Services SOAP-S01-02 Get Flights
 Flight-Web Services SOAP-S01-03 Create Flight Order
