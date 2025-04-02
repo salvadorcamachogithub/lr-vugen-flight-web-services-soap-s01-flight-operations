@@ -1,0 +1,12 @@
+Attempting to download 'http://localhost:8000/Flights_SOAP?WSDL' using DiscoveryClientProtocol..
+DiscoveryClientProtocol found documents at the following URLs:
+- Xml Schema at    
+http://localhost:8000/Flights_SOAP?xsd=xsd1
+- WSDL document at  
+http://localhost:8000/Flights_SOAP?WSDL
+- Xml Schema at    
+http://localhost:8000/Flights_SOAP?xsd=xsd2
+- WSDL document at  
+http://localhost:8000/Flights_SOAP?wsdl=wsdl0
+- Xml Schema at    
+http://localhost:8000/Flights_SOAP?xsd=xsd0

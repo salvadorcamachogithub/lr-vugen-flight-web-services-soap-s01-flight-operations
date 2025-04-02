@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<services>
+  <service>
+    <name>Flights_Service</name>
+    <id>0</id>
+    <ports>
+      <port>
+        <name>FlightsServiceMethods</name>
+        <id>1</id>
+        <bindingname>FlightsServiceMethods</bindingname>
+        <porttype>IFlightsSoapService</porttype>
+      </port>
+    </ports>
+  </service>
+</services>

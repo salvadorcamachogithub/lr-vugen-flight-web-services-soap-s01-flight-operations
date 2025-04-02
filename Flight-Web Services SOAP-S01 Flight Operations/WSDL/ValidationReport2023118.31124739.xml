@@ -1,0 +1,10 @@
+<Report time="Wednesday, November 8, 2023">
+  <WSDLS>
+    <WSDL unc="http://localhost:8000/Flights_SOAP?WSDL" name="http://localhost:8000/Flights_SOAP?WSDL">
+      <msgs>
+        <msg severity="Error" xpath="" col="0" line="">WS-I report C:\Users\demo\Documents\VuGen\Scripts\REST And Swagger JSON File DevWeb\Flight-SOAP-S01 Flight Operations\WSDL\WSIValidationReport_Flights_Service_FlightsServiceMethods.xml was created  service: "Flights_Service" binding: i0:FlightsServiceMethods; Summary status:failed</msg>
+        <msg severity="Error" xpath="" col="0" line="BP2803">....WS-I validation failure: </msg>
+      </msgs>
+    </WSDL>
+  </WSDLS>
+</Report>

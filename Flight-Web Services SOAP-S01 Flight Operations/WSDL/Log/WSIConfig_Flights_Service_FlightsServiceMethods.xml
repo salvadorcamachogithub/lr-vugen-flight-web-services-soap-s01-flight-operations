@@ -1,0 +1,13 @@
+<configuration xmlns="http://www.ws-i.org/testing/2004/07/analyzerConfig/" xmlns:wsi-common="http://www.ws-i.org/testing/2003/03/common/" xmlns:uddi="urn://uddi-org/api_v2/">
+  <verbose>true</verbose>
+  <assertionResults type="all" messageEntry="false" assertionDescription="true" failureMessage="true" failureDetail="true" />
+  <reportFile replace="true" location="C:\Users\demo\Documents\VuGen\Scripts\REST And Swagger JSON File DevWeb\Flight-SOAP-S01 Flight Operations\WSDL\WSIValidationReport_Flights_Service_FlightsServiceMethods.xml">
+    <addStyleSheet href="C:\Program Files (x86)\Micro Focus\LoadRunner\wsi-test-tools\common\xsl\report.xsl" type="text/xsl" alternate="false" />
+  </reportFile>
+  <testAssertionsFile>C:\Program Files (x86)\Micro Focus\LoadRunner\wsi-test-tools\common\profiles\SSBP10_BP11_TAD.xml</testAssertionsFile>
+  <wsdlReference>
+    <wsdlElement type="binding" namespace="HP.SOAQ.SampleApp">FlightsServiceMethods</wsdlElement>
+    <wsdlURI>http://localhost:8000/Flights_SOAP?WSDL</wsdlURI>
+    <serviceLocation>http://DummyServiceLocation:80</serviceLocation>
+  </wsdlReference>
+</configuration>
