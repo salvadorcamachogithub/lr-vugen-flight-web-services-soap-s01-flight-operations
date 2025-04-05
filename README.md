@@ -1,7 +1,7 @@
 Updated: 04.2025  
 Script created by Salvador Camacho
 
-This script requires the FlightsAPI.exe to be running, located under:
+This script requires the FlightsAPI.exe to be running, located under:  
 C:\Program Files (x86)\OpenText\UFT One\samples\Flights Application
 
 This script was created with best practices, so it is more resilient, such as:
